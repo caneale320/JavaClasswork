@@ -1,6 +1,6 @@
 # JavaClasswork
-Intermediate software development in Java (CS 2110 @ UVA, Fall 2019)
-Many of these assignments have provided starter code which should be notated in the actual file. 
+Intermediate software development in Java (CS 2110 @ UVA, Fall 2019).
+Many of these assignments had provided starter code which should be notated in the actual file. All code which fulfills the instructions of the assignment is my own unless otherwise sourced. 
 
 ## HW 1
 Assignment instructions from UVA CS dept.:
